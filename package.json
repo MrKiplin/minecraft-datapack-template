@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-datapack-template",
+  "description": "For people who want to spend time making Minecraft datapacks instead of configuring build tools.",
+  "version": "1.0.1",
+  "repository": "https://github.com/MrKiplin/minecraft-datapack-template.git",
+  "author": "MrKiplin <https://github.com/MrKiplin>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "zip-a-folder": "^0.0.12"
+  }
+}
